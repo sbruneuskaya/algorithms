@@ -21,5 +21,5 @@ function sortSelection(array) {
 }
 
 
-console.log(sortSelection(arrSortSelection))
-console.log(countSortSelection)
+// console.log(sortSelection(arrSortSelection))
+// console.log(countSortSelection)
